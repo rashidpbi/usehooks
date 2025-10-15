@@ -4,3 +4,6 @@ content:
     label: Posts
     path: usehooks.com/src/content/hooks
     type: collection
+    fields: 
+      - { name: name, label: Name, type: string }
+      - { name: rank, label: Rank, type: number }
